@@ -1,0 +1,8 @@
+# Azure Service Principle details
+export CLIENTID=""
+export CLIENTSECRET=""
+export TENANTID=""
+
+Storage Account details
+export STORAGEACCOUNT=""
+export CONTAINER=""
